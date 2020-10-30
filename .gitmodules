@@ -1,0 +1,4 @@
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:jarsa/server-tools.git
+	branch = 14.0
