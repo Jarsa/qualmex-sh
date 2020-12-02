@@ -30,3 +30,8 @@
 	path = stock-logistics-reporting
 	url = git@github.com:jarsa/stock-logistics-reporting.git
 	branch = 14.0
+
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:jarsa/partner-contact.git
+	branch = 14.0
