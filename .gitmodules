@@ -15,3 +15,8 @@
 	path = bank-payment
 	url = git@github.com:Jarsa/bank-payment.git
 	branch = 14.0
+
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:Jarsa/reporting-engine.git
+	branch = 14.0
