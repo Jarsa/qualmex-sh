@@ -35,3 +35,8 @@
 	path = partner-contact
 	url = git@github.com:jarsa/partner-contact.git
 	branch = 14.0
+
+[submodule "credit-control"]
+	path = credit-control
+	url = git@github.com:Jarsa/credit-control.git
+	branch = 14.0
