@@ -20,3 +20,8 @@
 	path = reporting-engine
 	url = git@github.com:Jarsa/reporting-engine.git
 	branch = 14.0
+
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:jarsa/server-ux.git
+	branch = 14.0
