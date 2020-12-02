@@ -25,3 +25,8 @@
 	path = server-ux
 	url = git@github.com:jarsa/server-ux.git
 	branch = 14.0
+
+[submodule "stock-logistics-reporting"]
+	path = stock-logistics-reporting
+	url = git@github.com:jarsa/stock-logistics-reporting.git
+	branch = 14.0
