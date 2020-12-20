@@ -40,3 +40,8 @@
 	path = credit-control
 	url = git@github.com:Jarsa/credit-control.git
 	branch = 14.0
+
+[submodule "purchase-reporting"]
+	path = purchase-reporting
+	url = git@github.com:jarsa/purchase-reporting.git
+	branch = 14.0
