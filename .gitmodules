@@ -59,3 +59,7 @@
 	path = qualmex
 	url = git@git.vauxoo.com:jarsa/qualmex.git
 	branch = 14.0
+[submodule "mexico"]
+	path = mexico
+	url = git@git.vauxoo.com:jarsa/mexico.git
+	branch = 14.0
