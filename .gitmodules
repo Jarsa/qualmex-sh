@@ -63,3 +63,7 @@
 	path = mexico
 	url = git@git.vauxoo.com:jarsa/mexico.git
 	branch = 14.0
+[submodule "account-analytic"]
+	path = account-analytic
+	url = git@github.com:jarsa/account-analytic.git
+	branch = 14.0
