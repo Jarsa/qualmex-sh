@@ -36,11 +36,6 @@
 	url = git@github.com:Jarsa/credit-control.git
 	branch = 14.0
 
-[submodule "purchase-reporting"]
-	path = purchase-reporting
-	url = git@github.com:jarsa/purchase-reporting.git
-	branch = 14.0
-
 [submodule "stock-logistics-warehouse"]
 	path = stock-logistics-warehouse
 	url = git@github.com:jarsa/stock-logistics-warehouse.git
@@ -72,4 +67,8 @@
 [submodule "server-ux"]
 	path = server-ux
 	url = git@github.com:jarsa/server-ux.git
+	branch = 14.0
+[submodule "purchase-reporting"]
+	path = purchase-reporting
+	url = git@github.com:jarsa/purchase-reporting.git
 	branch = 14.0
