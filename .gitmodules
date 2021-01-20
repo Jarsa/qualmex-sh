@@ -72,3 +72,7 @@
 	path = purchase-reporting
 	url = git@github.com:jarsa/purchase-reporting.git
 	branch = 14.0
+[submodule "rma"]
+	path = rma
+	url = git@github.com:jarsa/rma.git
+	branch = 14.0
