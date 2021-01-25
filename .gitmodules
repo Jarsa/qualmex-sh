@@ -76,3 +76,11 @@
 	path = rma
 	url = git@github.com:jarsa/rma.git
 	branch = 14.0
+[submodule "mexico-document"]
+	path = mexico-document
+	url = git@git.vauxoo.com:jarsa/mexico-document.git
+	branch = 14.0
+[submodule "xunnel-account"]
+	path = xunnel-account
+	url = git@git.vauxoo.com:jarsa/xunnel-account.git
+	branch = 14.0
