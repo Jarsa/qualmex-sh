@@ -89,3 +89,8 @@
 	path = mis-builder
 	url = git@github.com:jarsa/mis-builder.git
 	branch = 14.0
+
+[submodule "web"]
+	path = web
+	url = git@github.com:jarsa/web.git
+	branch = 14.0
