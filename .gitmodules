@@ -84,3 +84,8 @@
 	path = xunnel-account
 	url = git@git.vauxoo.com:jarsa/xunnel-account.git
 	branch = 14.0
+
+[submodule "mis-builder"]
+	path = mis-builder
+	url = git@github.com:jarsa/mis-builder.git
+	branch = 14.0
